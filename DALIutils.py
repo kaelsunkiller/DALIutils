@@ -7,7 +7,7 @@
 
 @Modify Time      @Author    @Version    @Desciption
 ------------      -------    --------    -----------
-11/21/19 2:15 PM   Yang      0.0         DALI Pipeline util for COCO Caption dataset
+11/21/19 2:15 PM   Yang      0.1         DALI Pipeline util for COCO Caption dataset
 """
 
 import os
