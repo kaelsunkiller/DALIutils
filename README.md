@@ -1,7 +1,11 @@
 # DALIutils
 Nvidia DALI Pipeline for image caption task using COCO dataset
 
-## Version 0.0
+## Upload 11/21/19
+* Add pytorch tensor intergration for accelerating dataloading.
+* Add examples.
+
+## Version 0.1
 * Python 3.7<br>
 * Nvidia DALI 0.15.0
 
