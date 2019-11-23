@@ -1,5 +1,5 @@
 # DALIutils
-Nvidia DALI Pipeline for image caption task using COCO dataset
+Nvidia DALI Pipeline for image caption task using [COCO](http://cocodataset.org/#captions-2015) dataset
 
 ## Upload 11/21/19
 * Add pytorch tensor intergration for accelerating dataloading.
